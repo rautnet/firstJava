@@ -4,6 +4,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, New World New Date New Change !!! "+new Date());
+    System.out.println("Hello, New World New Date 7 April 2020 New Change !!! ");
   }
 }
